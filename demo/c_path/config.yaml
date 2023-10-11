@@ -1,0 +1,7 @@
+# Absolutes path
+paths:
+  - vimrc:
+  - slides:
+
+# Relative files
+configs:
