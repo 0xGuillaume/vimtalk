@@ -74,8 +74,8 @@ Fini les blagues douteuses :
 > J'utilise Vim depuis 5 ans, surtout parce que je n'ai pas réussi à quitter Vim...
 
 Plusieurs commandes : 
-- `q!` : Quitter sans sauvegarder.
-- `qw` ou `x` : Quitter en sauvegardant.
+- `:q!` > Quitter sans sauvegarder.
+- `:qw` ou `:x` > Quitter en sauvegardant.
 
 ## Passons à la pratique !
 
