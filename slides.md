@@ -35,12 +35,12 @@
 
 - _Vim_ is my new gym
     - L'as de la configuration
-    - Mayday, send help
+    - Besoin d'aide ?
     - Split
-    - Où suis-je ?
+    - Trouver son chemin
     - Je cherche mes mots
-    - Commands
-    - Macros
+    - Commandes
+    - Macros is the way
 
 - Be the next _Vim Diesel_
 
